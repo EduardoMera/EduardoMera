@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EduardoMera
 - 👀 I’m interested in WEB Developer
-- 🌱 I’m currently learning PHP, JavaScript, CSS, Bootstrap,among others ... 
+- 🌱 I’m currently learning PHP, JavaScript, CSS, Bootstrap, among others ... 
 - 💞️ I’m looking to collaborate on Front-End Developer
 - 📫  contact me by e-mail 
  
